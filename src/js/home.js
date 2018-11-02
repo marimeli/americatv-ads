@@ -122,3 +122,5 @@ const selectInterval = () => {
   }
   printModal();
 };
+
+document.getElementById('logout').addEventListener('click', signOut);

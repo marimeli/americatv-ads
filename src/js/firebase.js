@@ -44,4 +44,6 @@ const updateShowInfo = (id, currentDay, currentInterval) => db.doc(`shows/${id}`
     })
   }))
 
+const signOut = () => auth.signOut().then(() => window.location = './login.html');
+
 const saveReservation = reservation => db.collection('reservations').add(reservation);

@@ -1,0 +1,1 @@
+document.getElementById('logout').addEventListener('click', signOut);
