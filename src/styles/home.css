@@ -254,6 +254,7 @@ body {
   background-size: cover;
   background-repeat: no-repeat;
   opacity: 0.8;
+  min-height: 100vh;
 }
 .titulo{
   color: #fff;
