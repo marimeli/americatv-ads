@@ -15,7 +15,7 @@ Desarrollar una aplicación web que permita a los anunciantes y agencias de publ
 
 ## **2. DESIGN THINKING**
 
-Trabajamos en equipo mediante la metodología del Design Thinking que nos permite desarrollar productos de from¿a
+Trabajamos en equipo mediante la metodología del Design Thinking.
 ![design-thinking](https://user-images.githubusercontent.com/34355830/47814008-985e3880-dd1a-11e8-98f4-067faa5a16e6.png).
 
 ## **Empatía**
@@ -32,9 +32,9 @@ Conociendo los problemas, llegamos a la conclusion de elaborar un mvp en un plaz
 
 __Problemas encontrados__
 
-* El proceso para registrar un espacio publucitario es confuso, tedioso y muy largo, ya que el usuario no puede revisar sus reservaciones realizadas.
+* El proceso para registrar un espacio publicitario es confuso, tedioso y muy largo, ya que el usuario no puede revisar sus reservaciones realizadas.
 
-* Otro de los problemas encontrados es que no tienen una BD optimizada ya que los datos estan de manera dispersa y no tienen una conexion establecida.
+* Otro de los problemas encontrados es que no tienen una data de bases optimizada ya que los datos estan de manera dispersa y no tienen una conexión establecida.
 
 * Distribución de horarios ya que no llevan los intervalos de tiempos establecidos y eso genera un horario inconsistente.
 
@@ -66,11 +66,12 @@ https://marvelapp.com/631c695
 
 ## **Herramientas Utilizadas**
 
-* HTML 5
-* CSS
-* JS
+* HTML5
+* CSS3
+* Javascript
 * Materialize
 * Firebase
 * Figma
+* Marvel
 * Git
 * Github
